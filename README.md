@@ -1,16 +1,177 @@
-# React + Vite
+# JS Mentor AI 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered JavaScript learning platform designed to help students learn, practice, and master JavaScript through interactive tools and AI assistance.
 
-Currently, two official plugins are available:
+## Problem Statement
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Many students struggle to learn JavaScript because learning resources are scattered across different platforms. Beginners often need:
 
-## React Compiler
+* Instant doubt solving
+* Coding practice
+* Personalized learning paths
+* Real-world project ideas
+* Interview preparation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+JS Mentor AI solves these problems by providing everything in one platform.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+### 🤖 AI Tutor
+
+* Ask JavaScript questions
+* Get detailed explanations
+* Learn concepts with examples
+
+### 💻 JavaScript Playground
+
+* Write and run JavaScript code
+* View output instantly
+* Experiment with code safely
+
+### 🐞 Find Bugs
+
+* Detect issues in JavaScript code
+* Understand why errors occur
+* Receive suggested fixes
+
+### ⚡ Optimize Code
+
+* Improve code quality
+* Learn better approaches
+* Understand performance improvements
+
+### 🧪 Test Case Generator
+
+* Generate sample test cases
+* Validate code logic
+* Practice edge cases
+
+### 🏆 Coding Challenges
+
+* AI-generated coding problems
+* Difficulty levels:
+
+  * Easy
+  * Medium
+  * Hard
+* Interactive code editor
+
+### 🎯 AI Judge
+
+* Evaluate submitted solutions
+* Provide scores and feedback
+* Suggest improvements
+
+### 💡 Hint System
+
+* Get hints without revealing answers
+* Learn problem-solving techniques
+
+### 🗺️ Learning Roadmap Generator
+
+* Generate personalized JavaScript learning paths
+* Beginner to advanced progression
+
+### 🚀 Project Generator
+
+* Generate project ideas
+* Step-by-step build plans
+* Real-world development practice
+
+---
+
+## Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* Tailwind CSS
+
+### AI Integration
+
+* Groq API
+* Llama Models
+
+### Code Editor
+
+* Monaco Editor
+
+### Routing
+
+* React Router DOM
+
+### Animation
+
+* Framer Motion
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Biptain-Rakshit/JS-Mentor.git
+```
+
+Navigate to the project:
+
+```bash
+cd JS-Mentor
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Create a `.env` file:
+
+```env
+VITE_GROQ_API_KEY=YOUR_API_KEY
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## Future Scope
+
+* AI Interview Simulator
+* Progress Tracking Dashboard
+* User Authentication
+* Leaderboards
+* Multi-Language Support
+* Code Execution Sandbox
+* Community Discussions
+
+---
+
+## Developer
+
+**Biptain Rakshit**
+
+GitHub:
+https://github.com/Biptain-Rakshit
+
+---
+
+## License
+
+This project is created for educational and hackathon purposes.
