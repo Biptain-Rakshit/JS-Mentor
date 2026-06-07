@@ -74,7 +74,7 @@ Write a clear final learning outcome.
     <div className="min-h-screen bg-black text-white pt-24 px-6">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold mb-3">
-          AI JavaScript Roadmap
+          Your JavaScript Roadmap
         </h1>
 
         <p className="text-gray-400 mb-8">
